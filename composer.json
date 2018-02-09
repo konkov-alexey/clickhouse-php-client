@@ -1,10 +1,13 @@
 {
-  "name": "8bitov/clickhouse-php-client",
+  "name": "konkov-alexey/clickhouse-php-client",
   "license": "MIT",
-  "version" : "0.0.3",
+  "version" : "0.0.4",
   "keywords":    ["clickhouse", "driver", "client", "http"],
-  "homepage":    "https://github.com/8bitov/doctrine2-clickhouse",
+  "homepage":    "https://github.com/konkov-alexey/clickhouse-php-client",
   "authors": [
+    {
+      "name": "Konkov Alexey"
+    },
     {
       "name": "Aleksey Kuznetsov"
     }
